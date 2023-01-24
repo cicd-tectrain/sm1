@@ -6,5 +6,7 @@ public class Main {
 
         //Kommentar
         System.out.println("more output");
+
+        System.out.println("This is feature 1");
     }
 }

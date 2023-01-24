@@ -4,6 +4,13 @@ public class Main {
         System.out.println("Bye World!");
         System.out.println("hey");
 
+        System.out.println("test");
+
+        //kommentar
+
+        System.out.println("more output");
+
+
 
     }
 }
